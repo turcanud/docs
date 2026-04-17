@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Cerevan Oleg
+Lefter Vlad
 ```
 
 **Second Name:**
 ```
-nvahksjja781
+njkhuh6849
 ```
 
 **Pass:**
@@ -17,20 +17,15 @@ nvahksjja781
 
 **Reference:**
 ```
-itsjammie1337@gmail.com
+turcanu7@yahoo.com
 ```
 
 **Issue Date:**
 ```
-39-26-7802/3389
+171990
 ```
 
 **Type:**
 ```
-01/04/2026
-```
-
-**Number:**
-```
-067521199
+08/04/2026
 ```
