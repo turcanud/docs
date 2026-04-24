@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Lefter Vlad
+Gribincea Andrian
 ```
 
 **Second Name:**
 ```
-njkhuh6849
+grbasjsj313
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ njkhuh6849
 
 **Reference:**
 ```
-turcanu7@yahoo.com
+vladpop7@yahoo.com
 ```
 
 **Issue Date:**
 ```
-171990
+13-26-2314/1019
 ```
 
 **Type:**
 ```
-08/04/2026
+16/02/2026
 ```
