@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Livitchi Vladimir
+Cortac Vitalie
 ```
 
 **Second Name:**
 ```
-vladimirlv38
+vitaliecortac47
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ vladimirlv38
 
 **Reference:**
 ```
-vladimirlive90@gmail.com
+viealiecor47@proton.me
 ```
 
 **Issue Date:**
 ```
-13-26-7591/3582
+39-26-1337/5765
 ```
 
 **Type:**
 ```
-25/05/2026
+11/06/2026
 ```
