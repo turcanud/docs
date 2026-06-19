@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Cortac Vitalie
+Bordian Iuri
 ```
 
 **Second Name:**
 ```
-vitaliecortac47
+bordianiuri1
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ vitaliecortac47
 
 **Reference:**
 ```
-viealiecor47@proton.me
+bordianiuri@proton.me
 ```
 
 **Issue Date:**
 ```
-39-26-1337/5765
+39-26-6445/2750
 ```
 
 **Type:**
 ```
-11/06/2026
+18/03/2026
 ```
