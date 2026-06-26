@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Bordian Iuri
+Spataru Iurie
 ```
 
 **Second Name:**
 ```
-bordianiuri1
+spatarusiur21
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ bordianiuri1
 
 **Reference:**
 ```
-bordianiuri@proton.me
+spataruirie@proton.me
 ```
 
 **Issue Date:**
 ```
-39-26-6445/2750
+13-26-8757/4249
 ```
 
 **Type:**
 ```
-18/03/2026
+19/06/2026
 ```
