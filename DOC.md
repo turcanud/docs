@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Spataru Iurie
+Misrihanov Curban
 ```
 
 **Second Name:**
 ```
-spatarusiur21
+curbanshas312
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ spatarusiur21
 
 **Reference:**
 ```
-spataruirie@proton.me
+curbanhas@proton.me
 ```
 
 **Issue Date:**
 ```
-13-26-8757/4249
+13-26-9232/4466
 ```
 
 **Type:**
 ```
-19/06/2026
+30/06/2026
 ```
