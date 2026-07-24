@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Mustuc Ivan
+Huzun Vasile
 ```
 
 **Second Name:**
 ```
-mustucivan152
+huzunvasile672
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ mustucivan152
 
 **Reference:**
 ```
-mustucivan@proton.me
+huzunvasile@proton.me
 ```
 
 **Issue Date:**
 ```
-710-24-5167/631
+13-23-18351/10781
 ```
 
 **Type:**
 ```
-12/09/2024
+22/09/2023
 ```
