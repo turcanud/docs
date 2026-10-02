@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Mostovei Grigore
+Guzun Lucian
 ```
 
 **Second Name:**
 ```
-mostoveigrig31
+guzunmia21
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ mostoveigrig31
 
 **Reference:**
 ```
-mostovei@proton.me
+anacaminaasa@proton.me
 ```
 
 **Issue Date:**
 ```
-13-26-11473/5562
+13-26-11544/5595
 ```
 
 **Type:**
 ```
-09/09/2026
+10/09/2026
 ```
