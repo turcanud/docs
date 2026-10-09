@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Guzun Lucian
+Stefanuca Dina
 ```
 
 **Second Name:**
 ```
-guzunmia21
+stefanucadina124
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ guzunmia21
 
 **Reference:**
 ```
-anacaminaasa@proton.me
+alacksanretopuria@proton.me
 ```
 
 **Issue Date:**
 ```
-13-26-11544/5595
+174859
 ```
 
 **Type:**
 ```
-10/09/2026
+29/09/2026
 ```
