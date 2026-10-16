@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Stefanuca Dina
+Luncari Maria
 ```
 
 **Second Name:**
 ```
-stefanucadina124
+luncarimaria1230
 ```
 
 **Pass:**
@@ -17,12 +17,12 @@ stefanucadina124
 
 **Reference:**
 ```
-alacksanretopuria@proton.me
+turcanmiha@proton.me
 ```
 
 **Issue Date:**
 ```
-174859
+174825
 ```
 
 **Type:**
