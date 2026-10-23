@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Luncari Maria
+Buza Denis
 ```
 
 **Second Name:**
 ```
-luncarimaria1230
+buzadenis867
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ luncarimaria1230
 
 **Reference:**
 ```
-turcanmiha@proton.me
+cristiamerescu@proton.me
 ```
 
 **Issue Date:**
 ```
-174825
+39-26-22544/10178
 ```
 
 **Type:**
 ```
-29/09/2026
+14/10/2026
 ```
