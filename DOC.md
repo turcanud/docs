@@ -2,12 +2,12 @@
 
 **Name:**
 ```
-Buza Denis
+Craciun Ion
 ```
 
 **Second Name:**
 ```
-buzadenis867
+craciunaion735
 ```
 
 **Pass:**
@@ -17,15 +17,15 @@ buzadenis867
 
 **Reference:**
 ```
-cristiamerescu@proton.me
+jsanvadim@proton.me
 ```
 
 **Issue Date:**
 ```
-39-26-22544/10178
+30-26-10699/4320
 ```
 
 **Type:**
 ```
-14/10/2026
+22/10/2026
 ```
